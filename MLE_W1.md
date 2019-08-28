@@ -1,11 +1,8 @@
----
-​---
+
 title: "MAXIMUM LIKELIHOOD ESTIMATION for FALL-2019"
 shorttitle: Led by Dr. Bird
 author: Sanghoon Park (Univ. of South Carolina)
 date: Aug. 28, 2019
-​---
----
 
 ```{r setup, include=FALSE}
 ## 이 Rmd 파일에서 사용할 Rdata가 있는 디렉토리 설정
