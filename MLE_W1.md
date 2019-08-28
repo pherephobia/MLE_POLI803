@@ -1,5 +1,5 @@
 ---
-title: "MAXIMUM LIKELIHOOD ESTIMATION for FALL-2019"
+title: MAXIMUM LIKELIHOOD ESTIMATION for FALL-2019
 shorttitle: Led by Dr. Bird
 author: Sanghoon Park (Univ. of South Carolina)
 date: Aug. 28, 2019
