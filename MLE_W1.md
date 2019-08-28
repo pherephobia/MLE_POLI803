@@ -1,32 +1,5 @@
 ---
-title: "POLI803: Maximum Likelihood Estimation"
-subtitle: "Led by Dr. Bird"
-author: "Ph.D. Student, Sanghoon Park (Univ. of South Carolina)"
-date: "8/20/2019"
-header-includes:
-  - \usepackage{kotex}
-output: 
-  pdf_document: 
-    latex_engine: xelatex
-    fig_height: 6
-    fig_width: 10
-    toc: no
-  html_document:
-    fig_height: 6
-    fig_width: 10
-    highlight: textmate
-    theme: cosmo
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
-  word_document:
-    fig_height: 6
-    fig_width: 9
-    toc: no
-html_notebook: default
-html_document: default
-mainfont: NanumGothic
-urlcolor: blue
+
 ---
 
 ```{r setup, include=FALSE}
