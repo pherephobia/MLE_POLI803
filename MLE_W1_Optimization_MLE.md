@@ -222,7 +222,7 @@ MLE는 주어진 자료에서 기대값에 대한 최선의 추측---1/2가 아�
 
 일반적으로 $\frac{\partial}{\partial x}log_a(X)$에 도함수를 취한 결과는 $\frac{1}{Xln(a)}$와 같기 때문에 우리는 공식의 도함수를 취해 $$2\frac{1}{\theta ln(e)} - 1\frac{1}{(1-\theta)ln(e)}$$로 나타낼 수 있다.
 
-이 공식을 축약하여 0과 같게 되는 해를 구하게 된다면, $$\frac{\partial logL}{\partial \theta} = \frac{2}{\theta} - \frac{1}{(1 - \theta)} = 0$$라고 다시 재구성하여 $$\hat{\theta} = \frac{2}{3}$$라는 결과를 얻게 된다.
+이 공식을 축약하여 0과 같게 되는 해를 구하게 된다면, $\frac{\partial logL}{\partial \theta} = \frac{2}{\theta} - \frac{1}{(1 - \theta)} = 0$라고 다시 재구성하여 $$\hat{\theta} = \frac{2}{3}$$라는 결과를 얻게 된다.
 
 
 
@@ -233,5 +233,5 @@ MLE는 주어진 자료에서 기대값에 대한 최선의 추측---1/2가 아�
 
 
 
-    
+​    
 
