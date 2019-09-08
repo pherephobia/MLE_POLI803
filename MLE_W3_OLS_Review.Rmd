@@ -1,8 +1,8 @@
 ---
 title: "POLI803: Maximum Likelihood Estimation"
-subtitle: "Week 2: Data Cleaning"
+subtitle: "Week 3: OLS Regression Review"
 author: "Ph.D. Student, Sanghoon Park (Univ. of South Carolina)"
-date: "9/4/2019"
+date: "9/11/2019"
 header-includes:
   - \usepackage{kotex}
 output: 
