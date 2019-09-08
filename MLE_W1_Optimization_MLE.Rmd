@@ -1,6 +1,6 @@
 ---
 title: "POLI803: Maximum Likelihood Estimation"
-subtitle: "Led by Dr. Bird"
+subtitle: "Week 1: Optimization, MLE"
 author: "Ph.D. Student, Sanghoon Park (Univ. of South Carolina)"
 date: "8/20/2019"
 header-includes:

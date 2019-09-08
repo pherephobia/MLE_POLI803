@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.8.22)  2 SEP 2019 16:42
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.8.22)  7 SEP 2019 22:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**MLE_W1_Optimization_MLE.tex
-(./MLE_W1_Optimization_MLE.tex
+**MLE_W2_Cleaning.tex
+(./MLE_W2_Cleaning.tex
 LaTeX2e <2018-04-01> patch level 5
 (c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -1021,8 +1021,8 @@ Package: xetexko-vertical 2018/04/06 v2.18 Vertical environment for XeTeX-ko
 \verticalem=\dimen166
 ) (c:/texlive/2018/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
-))) (./MLE_W1_Optimization_MLE.aux)
-\openout1 = `MLE_W1_Optimization_MLE.aux'.
+))) (./MLE_W2_Cleaning.aux)
+\openout1 = `MLE_W2_Cleaning.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
 LaTeX Font Info:    ... okay on input line 135.
@@ -1513,9 +1513,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 135.
 LaTeX Info: Redefining \pageref on input line 135.
 LaTeX Info: Redefining \nameref on input line 135.
-(./MLE_W1_Optimization_MLE.out) (./MLE_W1_Optimization_MLE.out)
+(./MLE_W2_Cleaning.out) (./MLE_W2_Cleaning.out)
 \@outlinefile=\write4
-\openout4 = `MLE_W1_Optimization_MLE.out'.
+\openout4 = `MLE_W2_Cleaning.out'.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
@@ -1609,103 +1609,54 @@ Package microtype Info: Character `\quotedblbase ' is missing
 (microtype)             in font `\TU/NanumGothic(0)/m/it/12'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `TU/NanumGothic(0)/m/n' will be
-(Font)              scaled to size 12.41278pt on input line 139.
+(Font)              scaled to size 12.41278pt on input line 145.
 LaTeX Font Info:    Font shape `TU/NanumGothic(0)/bx/n' will be
-(Font)              scaled to size 12.41278pt on input line 139.
-LaTeX Font Info:    Font shape `TU/NanumGothic(0)/bx/n' will be
-(Font)              scaled to size 8.62pt on input line 142.
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 142.
-
+(Font)              scaled to size 12.41278pt on input line 145.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 149.
 
 LaTeX Font Warning: Font shape `TU/NanumGothic(1)/m/it' undefined
-(Font)              using `TU/NanumGothic(1)/m/n' instead on input line 150.
+(Font)              using `TU/NanumGothic(1)/m/n' instead on input line 149.
 
 LaTeX Font Info:    Font shape `TU/NanumGothic(1)/m/it' will be
-(Font)              scaled to size 8.62pt on input line 150.
+(Font)              scaled to size 8.62pt on input line 149.
 Package microtype Info: Character `\quotesinglbase ' is missing
 (microtype)             in font `\TU/NanumGothic(1)/m/it/10'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `\quotedblbase ' is missing
 (microtype)             in font `\TU/NanumGothic(1)/m/it/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 151.
+LaTeX Font Info:    Font shape `TU/NanumGothic(0)/bx/n' will be
+(Font)              scaled to size 8.62pt on input line 224.
 [1
 
-] [2] [3]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 467.
+]
+LaTeX Font Info:    Font shape `TU/NanumGothic(0)/bx/n' will be
+(Font)              scaled to size 10.344pt on input line 334.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 334.
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [1
+9] [20] [21] [22]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2080.
+[23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2080.
+(./MLE_W2_Cleaning.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2080.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2080.
 
-(c:/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
-ern Roman (RS)
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 467.
-
-(c:/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 467
-.
-(c:/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 467
-.
-(c:/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 467.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 467.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 467.
-LaTeX Font Info:    Try loading font information for U+msa on input line 467.
-(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 467.
-(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Font shape `TU/NanumGothic(0)/m/n' will be
-(Font)              scaled to size 6.034pt on input line 467.
-LaTeX Font Info:    Font shape `TU/NanumGothic(0)/m/n' will be
-(Font)              scaled to size 4.31pt on input line 467.
-[4]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 492.
-
-[5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 535.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 535.
-(./MLE_W1_Optimization_MLE.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 535.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 535.
-Package rerunfilecheck Info: File `MLE_W1_Optimization_MLE.out' has not changed
-.
-(rerunfilecheck)             Checksum: C1CEC09EC80B80A8D9E389F45591E27B.
+Package rerunfilecheck Info: File `MLE_W2_Cleaning.out' has not changed.
+(rerunfilecheck)             Checksum: 459CCD84AEE1F2CC567643BD6C0F098E.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26308 strings out of 492962
- 454435 string characters out of 6136967
- 577013 words of memory out of 5000000
- 30070 multiletter control sequences out of 15000+600000
- 545097 words of font info for 59 fonts, out of 8000000 for 9000
+ 26166 strings out of 492962
+ 450918 string characters out of 6136967
+ 579530 words of memory out of 5000000
+ 29978 multiletter control sequences out of 15000+600000
+ 532842 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,6n,126p,820b,2521s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,5n,126p,812b,2521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on MLE_W1_Optimization_MLE.pdf (6 pages).
+Output written on MLE_W2_Cleaning.pdf (23 pages).
